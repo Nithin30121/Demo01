@@ -12,7 +12,7 @@ function App() {
     <h2>Nithin Kondeti</h2>
     <p class="role">Web Developer</p>
     <p class="desc">
-        Passionate about design, clean code, and building cool things on the web.
+        Passionate it about design, clean code, and building cool things on the web.
     </p>
     </div>
 
